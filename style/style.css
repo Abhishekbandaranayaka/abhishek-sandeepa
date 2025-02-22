@@ -152,14 +152,14 @@ header .logo a {
 }
 
 .img_about img {
-  width: 20%;
-  height: 50%; 
+  width: 25%;
+  height: 60%;
   border-radius: 50%; /* Makes the image circular */
   border: 10px solid #0497e0; /* Adds a blue border */
   object-fit: cover; /* Ensures the image fills the circular area */
   position: absolute;
   left: 80%;
-  top: 27%;
+  top: 25%;
   transform: translateX(-80%);
 }
 
